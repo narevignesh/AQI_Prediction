@@ -118,6 +118,7 @@ The project uses a **machine learning regression model** to predict AQI values b
 ```bash
 git clone https://github.com/narevignesh/AQI_Prediction.git
 cd AQI_Prediction
+cd AIR QUALITY INDEX PREDICTION
 ```
 
 ### **Step 2: Install Required Dependencies**
