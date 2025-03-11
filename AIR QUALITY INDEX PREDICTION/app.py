@@ -2,6 +2,8 @@ import streamlit as st
 import pickle
 import numpy as np
 import pandas as pd
+from warnings import filterwarnings
+filterwarnings('ignore')
 
 # Load trained model and scalers
 with open('AIR_QUALITY_INDEX.pkl', 'rb') as model_file:
